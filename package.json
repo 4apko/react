@@ -1,0 +1,18 @@
+{
+  "name": "react-ru-tutorial",
+  "version": "1.0.0",
+  "description": "React RU tutorial",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "4apko",
+  "license": "free",
+  "devDependencies": {
+    "express": "^4.16.3"
+  },
+  "dependencies": {
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  }
+}
